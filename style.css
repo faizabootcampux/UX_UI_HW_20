@@ -1,0 +1,158 @@
+h1 {
+    font-family: 'Italiana', serif;
+    font-size: 60px;
+}
+
+h5 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+  
+  
+p {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+}
+
+li {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+}
+
+label, input, button {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+
+body {
+    background-color: #FAF7EF;
+}
+
+body {
+    background-image: url("images/background.png");
+}
+
+body {
+    align-items: center;
+}
+
+body {
+    background: linear-gradient(to right, #D1E2F4, #FDEAEC,);
+    background-size: 400% 400%;
+    animation: gradient 10s ease-in-out infinite;
+}
+  
+  @keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+  
+  
+      
+body {
+        padding-left: 100px;
+        padding-right: 100px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+}
+
+.logo img{
+    width: 60px;
+}
+
+.containers img {
+    width: 100%;
+    vertical-align: center;
+
+}
+.nav justify-content-end {
+    display: flex;
+    justify-content: right;
+}
+  
+.user img {
+    width: 200px;
+}
+
+.affinity img {
+    width: 1100px;
+}
+
+.empathy img {
+    width: 1150px;
+}
+
+.persona img {
+    width: 1200px;
+}
+
+.feature img {
+    width: 1200px;
+}
+
+.userjourney img {
+    width: 1200px;
+}
+
+.competitor img {
+    width: 1200px;
+}
+
+.userflow img {
+    width: 1200px;
+}
+
+.sketch img {
+    width: 1150px;
+}
+
+.mid img {
+    width: 1150px;
+}
+
+.high img {
+    width: 1150px;
+}
+
+.colour img {
+    width: 1150px;
+}
+
+.typography img {
+    width: 1150px;
+}
+
+.containers {
+    max-width: 800px; 
+    margin: 0 auto;
+    text-align: center;
+}
+
+.bullet-point {
+    display: inline-block;
+}
+        
+.bullet-point > div {
+    display: inline-block;
+    vertical-align: top;
+    padding-right: 20px;
+}
+.bullet-point p {
+    text-align: center;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+          
